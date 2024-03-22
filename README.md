@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/RitikRaushan95/RitikRaushan95/blob/main/1701428777624.jpeg)
 <h1 align="center">Hi 👋, I'm Ritik Raushan</h1>
 <h3 align="center">Client-Side Developer || Web Dev Volunteer @GDSC || 2nd Year CSE @BCE</h3>
 
