@@ -1,3 +1,4 @@
+<img src="https://drive.google.com/file/d/15xeDk046hJSpIZLNmEyNSVQFRm5C4DmI/view?usp=drive_link" alt="Banner">
 <h1 align="center">Hi 👋, I'm Ritik Raushan</h1>
 <h3 align="center">Client-Side Developer || Web Dev Volunteer @GDSC || 2nd Year CSE @BCE</h3>
 
