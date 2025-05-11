@@ -1,6 +1,6 @@
 ![logo](https://github.com/RitikRaushan95/RitikRaushan95/blob/main/1701428777624.jpeg)
 <h1 align="center">Hii 👋</h1>
-<h3 align="center">Client-Side Developer || Web Dev Volunteer @GDSC || 2nd Year CSE @BCE</h3>
+<h3 align="center">Client-Side Developer || Web Dev Volunteer @GDSC || 3rd Year CSE @BCE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikraushan95&label=Profile%20views&color=0e75b6&style=flat" alt="ritikraushan95" /> </p>
 
